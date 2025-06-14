@@ -1,3 +1,5 @@
+What I have learned from this course
+
 I've learnt about the use of commit messages, their benefit and how to create them.
 Did you know that a commit message is like a snapshot of the current version of the repo containing all the most recent changes?
 They are really fun and useful.
